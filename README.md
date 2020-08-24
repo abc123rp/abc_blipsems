@@ -11,7 +11,9 @@ Commands:
  - /blipON (Turn the blips ON)
  - /blipOFF (Turn the blips OFF)
 
+Blip data is stored in blips.json
 You can easly get the count of police and ambulance online using the emstable.
 
 
+Made for Three Queens RolePlay Community
 Script based on esx_pablips.
